@@ -1,0 +1,13 @@
+{
+  "name": "nodejs",
+  "packageManager": "yarn@3.2.1",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

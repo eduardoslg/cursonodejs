@@ -7,3 +7,6 @@
 
 
 # CRUD -> Create, Read, Update, Delete
+
+
+# Middlewares -> para a requisição continuar, precisamos adicionar o 'next' como parâmetro, e retorná-lo no final.
